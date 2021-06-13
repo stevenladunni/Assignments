@@ -1,5 +1,5 @@
 # To run this script type python assignment_5.py
-# Here we are reusing the variables "names_list" and "current_longest_names" from the last assignment but this time, we are defining a function that can be reused over and over for many different arguements or lists.
+# Here we are reusing the variables "names_list" and "current_longest_names" from the last assignment but this time, we are defining a function that can be reused over and over for many different arguements or lists. 
 names_list = ["bob", "jimmy", "max b", "bernie", "jordan","future hendrix"]
 def big_name(names):
     current_longest_name = ""
